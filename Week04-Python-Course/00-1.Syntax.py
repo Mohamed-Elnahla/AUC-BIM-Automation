@@ -1,6 +1,6 @@
 # Correct
 if 5 > 2:
-    print("Five is greater than two!")
+print("Five is greater than two!")
 
 # # Wrong
 # if 5 > 2:
@@ -8,8 +8,8 @@ if 5 > 2:
 
 # case sensitive
 
-# Correct
-print("Hello, World!")
+# # Correct
+# print("Hello, World!")
 
 # # Wrong
 # Print("hello, world!")
